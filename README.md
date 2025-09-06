@@ -1,1 +1,2 @@
 # Tour-and-Travel-Management-System
+Tour and Travel Project is an open-source web app using HTML, CSS, JavaScript, PHP, and MySQL. It offers responsive design, package browsing, secure contact form with database storage, and easy navigation. Ideal for practicing full-stack development and enhancements.
